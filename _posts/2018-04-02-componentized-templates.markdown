@@ -3,7 +3,7 @@ layout: post
 title:  "Componentización de HTML y CSS"
 date:   2018-04-02
 categories: jekyll update
-published: false
+published: true
 ---
 
 En grandes aplicaciones web, muchas veces es necesario mantener el look and feel
