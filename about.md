@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hola!
+Hola
 
 My name is Luis, and I've been a software developer based in [Buenos Aires](//en.wikipedia.org/wiki/Buenos_Aires) for a few years.
 
