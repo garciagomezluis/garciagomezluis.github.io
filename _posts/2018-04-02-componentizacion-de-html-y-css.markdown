@@ -2,7 +2,7 @@
 layout: post
 title:  "Componentización de html y css"
 date:   2018-04-02
-categories: jekyll update
+categories: web html css
 published: true
 ---
 
